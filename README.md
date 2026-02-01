@@ -1,9 +1,5 @@
 ### Welcome to my Github-profile!
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=HolyBarrel&show_icons=true&theme=algolia" width="400">
-
-
 ### :briefcase: Languages:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cpp" alt="Cplusplus" width="75" height="75"/>&nbsp;
